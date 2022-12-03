@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-challenger:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-12-03T01:29:58.4708136-03:00"
+    description: A Helm chart for Kubernetes
+    digest: bbc414a8993d2c903eae4d6fbb6c35eb9643b8ee6b9fe112278607986bf4f9e8
+    name: helm-challenger
+    type: application
+    urls:
+    - helm-challenger-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-03T01:29:58.4699504-03:00"

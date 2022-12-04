@@ -38,7 +38,7 @@ securityContext: {}
 
 service:
   type: NodePort
-  port: 8080 
+  port: 80 
   nodePort: 30950 # map port to run
 
 ingress:
